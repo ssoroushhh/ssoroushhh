@@ -9,7 +9,4 @@
 <img src="https://github-readme-linkedin.vercel.app/languages?username=soroush-chehresa" width="400" height="150" />
 </div>
 <br>
-<div align="center">
-
 ### Powered by [github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)<h2>
-</div>
